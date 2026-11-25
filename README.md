@@ -230,7 +230,7 @@ The specification leaves a few points open. Our choices:
 
 | Name | Role |
 |------|------|
-| Justus Becker    | Facility Management    |
+| Justus Becker    | Boss of Emil Weber    |
 | Elias Steininger | Team Lead |
 | Jakob Orlik | Head of Information |
 | Emil Weber | Head of Documentation | 
